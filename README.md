@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning REACT
 - 📫 How to reach me https://www.instagram.com/sre___y___a___s/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Nil
+- ⚡ Fun fact: I am a good boy
 
 <!---
 sreyas-b-anand/sreyas-b-anand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
