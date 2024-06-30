@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sreyas-b-anand
 - 👀 I’m interested in web and app devolpment 
 - 🌱 I’m currently learning REACT
-- 📫 How to reach me https://www.instagram.com/sre___y___a___s/
+- 📫 How to reach me sreyas1045@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a good boy
 
