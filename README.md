@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sreyas B Anand</h1>
 <h3 align="center">An aspiring engineer with a deep passion for technology and web development . Beyond academics, I have a keen interest in football and a growing enthusiasm for machine learning. I am eager to enhance my programming skills through hard work and determination, and I look forward to making meaningful contributions in these fields.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreyas-b-anand" alt="sreyas-b-anand" /></a> </p>
+
 
 - 🌱 I’m currently learning **Full Stack Development**
 
