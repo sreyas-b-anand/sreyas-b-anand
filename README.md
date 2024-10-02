@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreyas B Anand</h1>
-<h3 align="center">An aspiring engineer with a deep passion for technology and web development . Beyond academics, I have a keen interest in football and a growing enthusiasm for machine learning. I am eager to enhance my programming skills through hard work and determination, and I look forward to making meaningful contributions in these fields.</h3>
+<h4 align="center">An aspiring engineer with a deep passion for technology and web development . Beyond academics, I have a keen interest in football and a growing enthusiasm for machine learning. I am eager to enhance my programming skills through hard work and determination, and I look forward to making meaningful contributions in these fields.</h4>
 
 
 
@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreyas-b-anand&show_icons=true&locale=en&layout=compact&theme=dark" alt="sreyas-b-anand" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreyas-b-anand&show_icons=true&locale=en&theme=dark" alt="sreyas-b-anand" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreyas-b-anand&show_icons=true&locale=en&theme=dark&hide=con,issues" alt="sreyas-b-anand" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreyas-b-anand&theme=dark" alt="sreyas-b-anand" /></p>
