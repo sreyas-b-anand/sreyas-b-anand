@@ -7,11 +7,8 @@
 
 - 👨‍💻 All of my projects are available at <a target="blank" rel="no openenr" href="https://portfolio-sreyas.vercel.app/">PORTFOLIO</a>
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **sreyas1045@gmail.com**
 
-- ⚡ Fun fact **I am a good boy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
