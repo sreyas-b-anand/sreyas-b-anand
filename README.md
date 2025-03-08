@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at <a target="blank" rel="no openenr" href="https://sreyas-mw.vercel.app/">PORTFOLIO</a>
+- 👨‍💻 All of my projects are available at <a target="blank" rel="no openenr" href="https://sreyas-me.vercel.app/">PORTFOLIO</a>
 
 - 📫 How to reach me **sreyas1045@gmail.com**
 
