@@ -113,7 +113,7 @@ I enjoy turning ideas into real-world products using modern tech stacks.<br/>
 ![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-6DB33F?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/Object_Oriented_Programming-9C27B0?style=for-the-badge)
 
-#### 🛠️ Tools & Workflow
+#### 🛠️ Tools 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
