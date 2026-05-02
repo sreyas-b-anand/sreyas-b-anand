@@ -71,7 +71,6 @@ I enjoy turning ideas into real-world products using modern tech stacks.<br/>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
-
 ---
 
 ### 🛠️ Skills
@@ -81,17 +80,26 @@ I enjoy turning ideas into real-world products using modern tech stacks.<br/>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
 #### 🎨 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-#### ⚙️ Backend & APIs
-![REST API](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman)
+#### ⚙️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+#### 🤖 Machine Learning & AI
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge)
 
 #### 📱 App Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
@@ -99,17 +107,15 @@ I enjoy turning ideas into real-world products using modern tech stacks.<br/>
 #### 🧠 Programming & CS Fundamentals
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-6DB33F?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/Object_Oriented_Programming-9C27B0?style=for-the-badge)
 
 #### 🛠️ Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Full Stack](https://img.shields.io/badge/Full_Stack_Development-000000?style=for-the-badge)
 
 ---
-
 ### 📊 GitHub Stats
 
 <p>
